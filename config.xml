@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.johnprinz.findthepenguins" versionCode="10" version="1.0.1">
 
-    <name>Find The Penguins</name>
+    <name>Find The Trudeaus</name>
 
     <description>This is a version of the Find the Penguins game done in HTML/CSS/JavaScript for PhoneGap deployment.</description>
 
@@ -11,7 +11,7 @@
         <preference name="orientation" value="portrait" />
     </platform>
 
-    <icon src="images/penguin_1.png" platform="android" width="200" height="200" />
+    <icon src="images/trudeau_3.png" platform="android" width="140" height="225" />
 
     <!-- all platforms -->
     <preference name="phonegap-version" value="cli-6.5.0" />
